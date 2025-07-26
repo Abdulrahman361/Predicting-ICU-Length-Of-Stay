@@ -1,11 +1,1 @@
-The prediction of ICU Length of Stay (LOS) is a critical challenge in healthcare management,
-particularly for patients with acute traumatic spinal cord injury (SCI). This injury often results
-in extended ICU stays due to complications such as respiratory failure, infections, and
-neurological deficits. In particular, cervical spinal cord injuries (ICD-9 codes: 806.0–806.09)
-often lead to more severe and complex medical conditions that prolong ICU stays.
-This study leverages the MIMIC-III dataset, which contain detailed ICU admission records from
-patients at Beth Israel Deaconess Medical Center. These datasets include patient
-demographics, diagnostic codes, treatment interventions, and ICU discharge information. The
-study aims to predict the ICU length of stay more accurately than the traditional APACHE-IV
-model, which has shown limited predictive power (R² = 0.05–0.28) for trauma patients like those
-with SCI.
+The prediction of ICU Length of Stay (LOS) is a critical challenge in healthcare management,particularly for patients with acute traumatic spinal cord injury (SCI). This injury often results in extended ICU stays due to complications such as respiratory failure, infections, and neurological deficits. In particular, cervical spinal cord injuries (ICD-9 codes: 806.0–806.09) often lead to more severe and complex medical conditions that prolong ICU stays. This study leverages the MIMIC-III dataset, which contain detailed ICU admission records from patients at Beth Israel Deaconess Medical Center. These datasets include patient demographics, diagnostic codes, treatment interventions, and ICU discharge information. The study aims to predict the ICU length of stay more accurately than the traditional APACHE-IV model, which has shown limited predictive power (R² = 0.05–0.28) for trauma patients like those with SCI. I have attached the file in which i have performed all the coding required to answer my study, as well as provided a report on my findings
